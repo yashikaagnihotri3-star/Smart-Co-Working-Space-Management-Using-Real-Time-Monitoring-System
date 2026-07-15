@@ -1,0 +1,3 @@
+This directory holds the local SQLite database file (coworking.sqlite), which is created
+automatically the first time you run `npm run dev` or `npm run seed`. It's git-ignored so
+your local data never gets committed.
